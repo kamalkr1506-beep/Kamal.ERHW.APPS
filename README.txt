@@ -1,20 +1,16 @@
 ═══════════════════════════════════════════════════════════════
-  ERHW v5.0 Navigator - GitHub Pages Package
+  ERHW v5.1 Navigator + Destination Route - GitHub Package
 ═══════════════════════════════════════════════════════════════
 
-🆕 NEW MAP FEATURES IN v5.0:
-  ✅ Vehicle marker with rotation (follows heading)
-  ✅ Blue route path tracking (polyline)
-  ✅ Map rotation (follows vehicle direction)
-  ✅ 3D tilt effect at high speeds
-  ✅ Compass indicator
-  ✅ Distance traveled tracker
-  ✅ GPS accuracy circle
-  ✅ Traffic status badge (light/moderate/heavy)
-  ✅ Satellite/Standard map toggle
-  ✅ Follow mode toggle
-  ✅ Smooth panning & zooming
-  ✅ Navigation banner with heading info
+🆕 NEW IN v5.1:
+  ✅ Tap on map to set destination
+  ✅ Blue dashed route line to destination
+  ✅ Distance & ETA to destination
+  ✅ Turn-by-turn direction arrows
+  ✅ "Start Navigation" button
+  ✅ Auto-arrival detection (within 50m)
+  ✅ Voice guidance (TTS)
+  ✅ Cancel destination anytime
 
 ═══════════════════════════════════════════════════════════════
 📤 UPLOAD TO GITHUB
